@@ -1,4 +1,5 @@
 node_modules/
+.claude/
 serve.cmd
 serve.ps1
 server.js
