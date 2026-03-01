@@ -1,1 +1,4 @@
 node_modules/
+serve.cmd
+serve.ps1
+server.js
